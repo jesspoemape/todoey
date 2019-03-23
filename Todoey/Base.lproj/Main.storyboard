@@ -32,9 +32,7 @@
                             <outlet property="delegate" destination="u3l-pz-bni" id="pkx-BU-1pD"/>
                         </connections>
                     </tableView>
-                    <toolbarItems>
-                        <barButtonItem title="Item" id="mcL-AW-wrQ"/>
-                    </toolbarItems>
+                    <toolbarItems/>
                     <navigationItem key="navigationItem" title="Todoey" id="5gF-11-Vyf">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="WEM-Gz-hWJ">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
